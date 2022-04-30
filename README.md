@@ -1,6 +1,8 @@
 # QuickNote
 
-A comprehensive note-taking web app to quickly capture what is on your mind - ideas, pictures, lists and more.
+A comprehensive note-taking app to quickly capture important information, lists, reminders etc. 
+
+Note: Attaching image to the note is work in progress.
 
 Built with MEAN stack (MongoDB, Express, AngularJS and Node.js). The UX is largely based on AngularJS.
 
