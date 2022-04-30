@@ -6,9 +6,7 @@ Built with MEAN stack (MongoDB, Express, AngularJS and Node.js). The UX is large
 
 Inspired by Google Keep.
 
-**Fully functional demo on Heroku:** http://ngnotes.herokuapp.com
-
 **To run on local machine:**
 * Download the project and open its directory in the terminal.
 * `npm install` to install dependencies.
-* `npm start` to start the server.
+* `npm run start` to start the server.
