@@ -10,6 +10,8 @@ Inspired by Google Keep.
 
 ![QuickNote](https://github.com/sanjeevmajumdar/QuickNote/blob/main/client/assets/images/ng-notes-md.png)
 
+Fully functional demo on Heroku: https://quick-note-app-07.herokuapp.com/
+
 **To run on local machine:**
 * Download the project and open its directory in the terminal.
 * `npm install` to install dependencies.
