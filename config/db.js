@@ -1,4 +1,5 @@
 var mongoose = require('mongoose');
+require('dotenv').config();
 var gracefulShutdown;
 var dbURI = 'mongodb://localhost/QuickNote-db';
 if(process.env.NODE_ENV === 'production') {
