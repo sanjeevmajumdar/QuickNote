@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "A note taking app built with MEAN stack.",
 	"author": "CPAD-Grp40 (Sanjeev Majumdar 2021mt12007, Arghya Kundu 2021mt12297, Sanath Kumar 2020mt93664)",
+	"engines": {
+		"node": "16.x"
+	  },
 	"scripts": {
 		"start": "nodemon ./bin/www"
 	},
