@@ -49,7 +49,6 @@ var register = function(req, res) {
 	catch(e){
 		console.log(e)
 	}
-	console.log("comming")
 
 	user.save(function(err) {
 		if(err) {
